@@ -1,0 +1,46 @@
+body
+{
+	text-align: center;
+}
+#fieldset{
+	width: 70%;
+	margin: 0 auto;
+	border: 2px solid #1a65b8;
+	text-align: left;
+	font-size: 1.5em;
+	font-weight: bold;
+}
+
+table
+{
+	width: 100%;
+	margin: 0 auto;
+	font-family: arial, sans-serif;
+	border-collapse: collapse;
+	text-align: center;
+}
+
+td, th
+{
+	border: 1px solid #DDDDDD;
+	padding: 8px;
+}
+
+td.text
+{
+	text-align: center;
+}
+
+tr:nth-child(even)
+{
+	background-color: #DDDDDD;
+}
+
+#home
+{
+	width: 100px;
+	padding: 10px;
+}
+
+
+
